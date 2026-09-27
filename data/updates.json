@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "activity:Algorithmic-Options-Hedging-Model:2026-W39",
+      "kind": "activity",
+      "repo": "Algorithmic-Options-Hedging-Model",
+      "date": "2026-09-27",
+      "text": "Rewrite the options hedging engine in C++20.",
+      "by": "commit",
+      "sourceHash": "f98a43f57a174fe1"
+    },
+    {
+      "key": "activity:monte-carlo-engine:2026-W39",
+      "kind": "activity",
+      "repo": "monte-carlo-engine",
+      "date": "2026-09-27",
+      "text": "Rewrite the Monte Carlo engine in C++20.",
+      "by": "commit",
+      "sourceHash": "4e031a0b85901309"
+    },
+    {
       "key": "activity:pitwall:2026-W39",
       "kind": "activity",
       "repo": "pitwall",
@@ -53,24 +71,6 @@
       "text": "Added IMU and 2D LiDAR sensors to the rover model, bridged them to ROS 2 topics /imu and /scan, and included a sensor mast link.",
       "by": "model",
       "sourceHash": "a22453168482d655"
-    },
-    {
-      "key": "new:Vector-missile-interceptor",
-      "kind": "new",
-      "repo": "Vector-missile-interceptor",
-      "date": "2026-09-14",
-      "text": "Started Vector-missile-interceptor: a real-time simulator for autonomous interception, built around a Kalman filter and proportional navigation.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "activity:Vector-missile-interceptor:2026-W38",
-      "kind": "activity",
-      "repo": "Vector-missile-interceptor",
-      "date": "2026-09-14",
-      "text": "A real‑time autonomous interception simulator with a Kalman filter, proportional navigation, and a GLFW+ImGui UI for mission control and Monte Carlo analysis.",
-      "by": "model",
-      "sourceHash": "0e2b3b5ce851ba49"
     }
   ]
 }
