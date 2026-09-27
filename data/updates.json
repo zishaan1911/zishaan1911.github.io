@@ -5,9 +5,18 @@
       "kind": "activity",
       "repo": "pitwall",
       "date": "2026-09-26",
-      "text": "Rebuilt pitwall as a race engineering tool on real F1 data, added pit loss measurement against the field, and deployed the dashboard to GitHub Pages.",
+      "text": "Rebuilt pitwall as a race engineering tool on real F1 data, added themed radio player and single‑lap pit windows, and fixed pit loss calculations and data publishing.",
       "by": "model",
-      "sourceHash": "8bc1bd45b543b581"
+      "sourceHash": "15f8859fe3eecace"
+    },
+    {
+      "key": "activity:SmolGPT:2026-W39",
+      "kind": "activity",
+      "repo": "SmolGPT",
+      "date": "2026-09-26",
+      "text": "Redesign the web app as a story editor.",
+      "by": "commit",
+      "sourceHash": "c312b9fbac2ddb45"
     },
     {
       "key": "new:arc-length-of-xn",
@@ -62,15 +71,6 @@
       "text": "A real‑time autonomous interception simulator with a Kalman filter, proportional navigation, and a GLFW+ImGui UI for mission control and Monte Carlo analysis.",
       "by": "model",
       "sourceHash": "0e2b3b5ce851ba49"
-    },
-    {
-      "key": "new:hybrid-sat-selector",
-      "kind": "new",
-      "repo": "hybrid-sat-selector",
-      "date": "2026-09-09",
-      "text": "Started hybrid-sat-selector: per-instance SAT solver selection that fuses SATzilla features with GNN embeddings; my Final Year Project.",
-      "by": null,
-      "sourceHash": null
     }
   ]
 }
