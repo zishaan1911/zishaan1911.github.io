@@ -2,6 +2,32 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "spillway",
+      "url": "https://github.com/zishaan1911/spillway",
+      "homepage": null,
+      "description": "2D fluid puzzle game in C++20: draw walls to steer a from-scratch SPH water simulation into the goal. raylib, metaball rendering, two-way rigid body coupling.",
+      "summary": "A 2D fluid puzzle game in C++20 that uses a custom SPH simulation to let players draw walls and guide water into a goal.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "C++",
+      "stars": 0,
+      "topics": [
+        "cpp",
+        "fluid-simulation",
+        "game",
+        "physics",
+        "puzzle-game",
+        "raylib",
+        "sph"
+      ],
+      "archived": false,
+      "pushedAt": "2026-09-28T14:07:06Z",
+      "createdAt": "2026-09-28T14:06:29Z",
+      "contextHash": "3b595933c7ebef6c",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "monte-carlo-engine",
       "url": "https://github.com/zishaan1911/monte-carlo-engine",
       "homepage": null,

@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:spillway",
+      "kind": "new",
+      "repo": "spillway",
+      "date": "2026-09-28",
+      "text": "Started spillway: a 2D fluid puzzle game in C++20 that uses a custom SPH simulation to let players draw walls and guide water into a goal.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:spillway:2026-W40",
+      "kind": "activity",
+      "repo": "spillway",
+      "date": "2026-09-28",
+      "text": "Added a play screen with HUD, pause, and results, introduced letterboxed viewport, buttons, stars, and enabled level capture replay to PNG.",
+      "by": "model",
+      "sourceHash": "f62d9e1f98d0eba4"
+    },
+    {
       "key": "activity:Algorithmic-Options-Hedging-Model:2026-W39",
       "kind": "activity",
       "repo": "Algorithmic-Options-Hedging-Model",
@@ -53,24 +71,6 @@
       "text": "Paper on arc length of y=xⁿ typeset in IEEE format, includes figures, tables, MIT license, and author affiliation.",
       "by": "model",
       "sourceHash": "b13225084a79118f"
-    },
-    {
-      "key": "activity:hybrid-sat-selector:2026-W39",
-      "kind": "activity",
-      "repo": "hybrid-sat-selector",
-      "date": "2026-09-25",
-      "text": "Implemented a per‑instance SAT solver selector combining SATzilla features with GNN embeddings, adding a CLI harness, training scripts, and cost‑accounted evaluation.",
-      "by": "model",
-      "sourceHash": "9e10ce44be92ffe2"
-    },
-    {
-      "key": "activity:OpenRover:2026-W38",
-      "kind": "activity",
-      "repo": "OpenRover",
-      "date": "2026-09-19",
-      "text": "Added IMU and 2D LiDAR sensors to the rover model, bridged them to ROS 2 topics /imu and /scan, and included a sensor mast link.",
-      "by": "model",
-      "sourceHash": "a22453168482d655"
     }
   ]
 }
