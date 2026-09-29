@@ -1,22 +1,31 @@
 {
   "updates": [
     {
-      "key": "new:spillway",
-      "kind": "new",
-      "repo": "spillway",
-      "date": "2026-09-28",
-      "text": "Started spillway: a 2D fluid puzzle game in C++20 that uses a custom SPH simulation to let players draw walls and guide water into a goal.",
-      "by": null,
-      "sourceHash": null
+      "key": "activity:hybrid-sat-selector:2026-W40",
+      "kind": "activity",
+      "repo": "hybrid-sat-selector",
+      "date": "2026-09-29",
+      "text": "Implemented crash‑ and concurrency‑safe cache writes, atomic graph cache storage, and fallback for unavailable numpy.fromstring.",
+      "by": "model",
+      "sourceHash": "3ff8e8cc2315458b"
     },
     {
       "key": "activity:spillway:2026-W40",
       "kind": "activity",
       "repo": "spillway",
-      "date": "2026-09-28",
-      "text": "Added a play screen with HUD, pause, and results, introduced letterboxed viewport, buttons, stars, and enabled level capture replay to PNG.",
+      "date": "2026-09-29",
+      "text": "The game now counted spills, displayed taunts, and rendered moving walls, fake walls, and moving goals.",
       "by": "model",
-      "sourceHash": "f62d9e1f98d0eba4"
+      "sourceHash": "a45d58e2ba85e9e2"
+    },
+    {
+      "key": "new:spillway",
+      "kind": "new",
+      "repo": "spillway",
+      "date": "2026-09-28",
+      "text": "Started spillway: a 2D fluid puzzle game in C++20 that uses a from‑scratch position‑based SPH simulation to let players draw walls and guide water into a goal.",
+      "by": null,
+      "sourceHash": null
     },
     {
       "key": "activity:Algorithmic-Options-Hedging-Model:2026-W39",
@@ -62,15 +71,6 @@
       "text": "Started arc-length-of-xn: a paper on how fast the arc length of y = xⁿ approaches 2, with LaTeX source and a verification script.",
       "by": null,
       "sourceHash": null
-    },
-    {
-      "key": "activity:arc-length-of-xn:2026-W39",
-      "kind": "activity",
-      "repo": "arc-length-of-xn",
-      "date": "2026-09-25",
-      "text": "Paper on arc length of y=xⁿ typeset in IEEE format, includes figures, tables, MIT license, and author affiliation.",
-      "by": "model",
-      "sourceHash": "b13225084a79118f"
     }
   ]
 }
