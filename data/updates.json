@@ -4,10 +4,10 @@
       "key": "activity:hybrid-sat-selector:2026-W40",
       "kind": "activity",
       "repo": "hybrid-sat-selector",
-      "date": "2026-09-29",
-      "text": "Implemented crash‑ and concurrency‑safe cache writes, atomic graph cache storage, and fallback for unavailable numpy.fromstring.",
+      "date": "2026-09-30",
+      "text": "Implemented crash‑ and concurrency‑safe cache writes, atomic graph caching, and a prepare‑only training mode for the SAT solver selection tool.",
       "by": "model",
-      "sourceHash": "3ff8e8cc2315458b"
+      "sourceHash": "8ac0def55cd20e08"
     },
     {
       "key": "activity:spillway:2026-W40",
