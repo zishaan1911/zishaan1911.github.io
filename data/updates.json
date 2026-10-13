@@ -1,13 +1,31 @@
 {
   "updates": [
     {
+      "key": "new:wingman",
+      "kind": "new",
+      "repo": "wingman",
+      "date": "2026-10-13",
+      "text": "Started wingman: android app that reads Tinder/Bumble chats via Accessibility Service, drafts replies with Groq API, and auto‑sends them at psychologically timed moments.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:wingman:2026-W42",
+      "kind": "activity",
+      "repo": "wingman",
+      "date": "2026-10-13",
+      "text": "Implemented auto‑open of dating app when a reply is due, added human‑like typing, and enabled vision‑optional Groq model.",
+      "by": "model",
+      "sourceHash": "3d5244f107bdb3a9"
+    },
+    {
       "key": "activity:hybrid-sat-selector:2026-W40",
       "kind": "activity",
       "repo": "hybrid-sat-selector",
       "date": "2026-09-30",
-      "text": "Implemented crash‑ and concurrency‑safe cache writes, atomic graph caching, and a prepare‑only training mode for the SAT solver selection tool.",
+      "text": "Implemented a run registry for E10 SAT18 supervised, ensuring runs are not marked dirty by registry or outputs, and added tests for registry rows and run outputs.",
       "by": "model",
-      "sourceHash": "8ac0def55cd20e08"
+      "sourceHash": "85424ec4244f6fb3"
     },
     {
       "key": "activity:spillway:2026-W40",
@@ -53,24 +71,6 @@
       "text": "Rebuilt pitwall as a race engineering tool on real F1 data, added themed radio player and single‑lap pit windows, and fixed pit loss calculations and data publishing.",
       "by": "model",
       "sourceHash": "15f8859fe3eecace"
-    },
-    {
-      "key": "activity:SmolGPT:2026-W39",
-      "kind": "activity",
-      "repo": "SmolGPT",
-      "date": "2026-09-26",
-      "text": "Redesign the web app as a story editor.",
-      "by": "commit",
-      "sourceHash": "c312b9fbac2ddb45"
-    },
-    {
-      "key": "new:arc-length-of-xn",
-      "kind": "new",
-      "repo": "arc-length-of-xn",
-      "date": "2026-09-25",
-      "text": "Started arc-length-of-xn: a paper on how fast the arc length of y = xⁿ approaches 2, with LaTeX source and a verification script.",
-      "by": null,
-      "sourceHash": null
     }
   ]
 }

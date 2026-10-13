@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "wingman",
+      "url": "https://github.com/zishaan1911/wingman",
+      "homepage": null,
+      "description": "Adaptive Android dating assistant: reads your chats and drafts/sends replies in your voice at psychologically-timed moments.",
+      "summary": "Android app that reads Tinder/Bumble chats via Accessibility Service, drafts replies with Groq API, and auto‑sends them at psychologically timed moments.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "Kotlin",
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-10-13T13:02:34Z",
+      "createdAt": "2026-10-13T08:34:45Z",
+      "contextHash": "a2544d976ee4e7c8",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "Helmsman",
       "url": "https://github.com/zishaan1911/Helmsman",
       "homepage": "https://zishaan1911.github.io/Helmsman/",
