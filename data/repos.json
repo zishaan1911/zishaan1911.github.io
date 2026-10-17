@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "afterburner",
+      "url": "https://github.com/zishaan1911/afterburner",
+      "homepage": null,
+      "description": "A 3D fighter jet simulator built with Panda3D",
+      "summary": "A 3D fighter jet simulator using Panda3D, featuring a physically based rendering pipeline, a high‑detail Su‑57 model, and an edge‑of‑space world with realistic lighting and atmosphere.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "Python",
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-10-17T13:18:00Z",
+      "createdAt": "2026-10-17T08:26:37Z",
+      "contextHash": "b582a2a6c2699e89",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "wingman",
       "url": "https://github.com/zishaan1911/wingman",
       "homepage": null,

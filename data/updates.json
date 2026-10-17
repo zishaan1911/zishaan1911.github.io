@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:afterburner",
+      "kind": "new",
+      "repo": "afterburner",
+      "date": "2026-10-17",
+      "text": "Started afterburner: a 3D fighter jet simulator using Panda3D, featuring a physically based rendering pipeline, a high‑detail Su‑57 model, and an edge‑of‑space world with realistic lighting and atmosphere.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:afterburner:2026-W42",
+      "kind": "activity",
+      "repo": "afterburner",
+      "date": "2026-10-17",
+      "text": "Implemented realistic Earth day map with Milky Way sky, enabled PBR rendering, and added high‑detail Su‑57 glTF model for edge‑of‑space flight.",
+      "by": "model",
+      "sourceHash": "9e53c3ca7f403b21"
+    },
+    {
       "key": "new:wingman",
       "kind": "new",
       "repo": "wingman",
@@ -53,24 +71,6 @@
       "text": "Rewrite the options hedging engine in C++20.",
       "by": "commit",
       "sourceHash": "f98a43f57a174fe1"
-    },
-    {
-      "key": "activity:monte-carlo-engine:2026-W39",
-      "kind": "activity",
-      "repo": "monte-carlo-engine",
-      "date": "2026-09-27",
-      "text": "Rewrite the Monte Carlo engine in C++20.",
-      "by": "commit",
-      "sourceHash": "4e031a0b85901309"
-    },
-    {
-      "key": "activity:pitwall:2026-W39",
-      "kind": "activity",
-      "repo": "pitwall",
-      "date": "2026-09-26",
-      "text": "Rebuilt pitwall as a race engineering tool on real F1 data, added themed radio player and single‑lap pit windows, and fixed pit loss calculations and data publishing.",
-      "by": "model",
-      "sourceHash": "15f8859fe3eecace"
     }
   ]
 }
