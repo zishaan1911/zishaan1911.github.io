@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "ascend90",
+      "url": "https://github.com/zishaan1911/ascend90",
+      "homepage": null,
+      "description": "90-day Solo Leveling style transformation app with a Groq AI drill sergeant",
+      "summary": "A static web app that tracks a 90‑day transformation plan across six pillars, using Groq AI to coach and roast the user, storing data in localStorage.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-10-18T12:24:32Z",
+      "createdAt": "2026-10-18T11:58:15Z",
+      "contextHash": "79f54e6adae7ebaa",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "afterburner",
       "url": "https://github.com/zishaan1911/afterburner",
       "homepage": null,

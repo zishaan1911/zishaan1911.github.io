@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:ascend90",
+      "kind": "new",
+      "repo": "ascend90",
+      "date": "2026-10-18",
+      "text": "Started ascend90: a static web app that tracks a 90‑day transformation plan across six pillars, using Groq AI to coach and roast the user, storing data in localStorage.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:ascend90:2026-W42",
+      "kind": "activity",
+      "repo": "ascend90",
+      "date": "2026-10-18",
+      "text": "Default to gpt-oss-120b and switch off retired Groq models.",
+      "by": "commit",
+      "sourceHash": "0cbf69527c4cea61"
+    },
+    {
       "key": "new:afterburner",
       "kind": "new",
       "repo": "afterburner",
@@ -53,24 +71,6 @@
       "text": "The game now counted spills, displayed taunts, and rendered moving walls, fake walls, and moving goals.",
       "by": "model",
       "sourceHash": "a45d58e2ba85e9e2"
-    },
-    {
-      "key": "new:spillway",
-      "kind": "new",
-      "repo": "spillway",
-      "date": "2026-09-28",
-      "text": "Started spillway: a 2D fluid puzzle game in C++20 that uses a from‑scratch position‑based SPH simulation to let players draw walls and guide water into a goal.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "activity:Algorithmic-Options-Hedging-Model:2026-W39",
-      "kind": "activity",
-      "repo": "Algorithmic-Options-Hedging-Model",
-      "date": "2026-09-27",
-      "text": "Rewrite the options hedging engine in C++20.",
-      "by": "commit",
-      "sourceHash": "f98a43f57a174fe1"
     }
   ]
 }
