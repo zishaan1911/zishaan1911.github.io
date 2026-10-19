@@ -14,8 +14,8 @@
       "kind": "activity",
       "repo": "ascend90",
       "date": "2026-10-18",
-      "text": "Default to gpt-oss-120b and switch off retired Groq models.",
-      "by": "commit",
+      "text": "Added offline service worker, web app manifest, icons, and integrated Groq AI coach with prayer‑time fetch, game rules, and localStorage persistence.",
+      "by": "model",
       "sourceHash": "0cbf69527c4cea61"
     },
     {
