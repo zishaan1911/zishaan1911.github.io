@@ -2,24 +2,6 @@
   "user": "zishaan1911",
   "repos": [
     {
-      "name": "ptmpatch",
-      "url": "https://github.com/zishaan1911/ptmpatch",
-      "homepage": null,
-      "description": null,
-      "summary": "A PHP web application providing user authentication, cron jobs, and AJAX‑driven question management for an exercise platform.",
-      "summarySource": "groq",
-      "group": "apps",
-      "language": "PHP",
-      "stars": 0,
-      "topics": [],
-      "archived": false,
-      "pushedAt": "2026-10-22T03:47:41Z",
-      "createdAt": "2026-10-22T03:46:34Z",
-      "contextHash": "484c6138607363a2",
-      "genStatus": "ok",
-      "genAttempts": 0
-    },
-    {
       "name": "ascend90",
       "url": "https://github.com/zishaan1911/ascend90",
       "homepage": null,
