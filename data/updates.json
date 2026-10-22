@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:ptmpatch",
+      "kind": "new",
+      "repo": "ptmpatch",
+      "date": "2026-10-22",
+      "text": "Started ptmpatch: a PHP web application providing user authentication, cron jobs, and AJAX‑driven question management for an exercise platform.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:ptmpatch:2026-W43",
+      "kind": "activity",
+      "repo": "ptmpatch",
+      "date": "2026-10-22",
+      "text": "Implemented PDO with bound parameters, removed bundled libraries, and switched to Composer‑managed PHPMailer and .env configuration.",
+      "by": "model",
+      "sourceHash": "8954e64c9ecc39c4"
+    },
+    {
       "key": "new:ascend90",
       "kind": "new",
       "repo": "ascend90",
@@ -53,24 +71,6 @@
       "text": "Implemented auto‑open of dating app when a reply is due, added human‑like typing, and enabled vision‑optional Groq model.",
       "by": "model",
       "sourceHash": "3d5244f107bdb3a9"
-    },
-    {
-      "key": "activity:hybrid-sat-selector:2026-W40",
-      "kind": "activity",
-      "repo": "hybrid-sat-selector",
-      "date": "2026-09-30",
-      "text": "Implemented a run registry for E10 SAT18 supervised, ensuring runs are not marked dirty by registry or outputs, and added tests for registry rows and run outputs.",
-      "by": "model",
-      "sourceHash": "85424ec4244f6fb3"
-    },
-    {
-      "key": "activity:spillway:2026-W40",
-      "kind": "activity",
-      "repo": "spillway",
-      "date": "2026-09-29",
-      "text": "The game now counted spills, displayed taunts, and rendered moving walls, fake walls, and moving goals.",
-      "by": "model",
-      "sourceHash": "a45d58e2ba85e9e2"
     }
   ]
 }
