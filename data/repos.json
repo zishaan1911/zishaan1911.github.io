@@ -78,6 +78,24 @@
       "genAttempts": 0
     },
     {
+      "name": "seventh-axis",
+      "url": "https://github.com/zishaan1911/seventh-axis",
+      "homepage": "https://seventh-axis.vercel.app",
+      "description": "Program robot arms in plain English, Bahasa Malaysia or Mandarin. The robotics company of Kuala Lumpur.",
+      "summary": "A web app that translates plain English, Bahasa Malaysia or 中文 instructions into verified robot arm programs using Gemini and offline planning.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": null,
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-10-08T15:28:41Z",
+      "createdAt": "2026-10-08T17:48:06Z",
+      "contextHash": "2e629fff58df018a",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "LeetCode-Solutions",
       "url": "https://github.com/zishaan1911/LeetCode-Solutions",
       "homepage": null,

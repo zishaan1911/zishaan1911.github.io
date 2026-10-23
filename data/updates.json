@@ -55,20 +55,20 @@
       "sourceHash": "3d5244f107bdb3a9"
     },
     {
+      "key": "new:seventh-axis",
+      "kind": "new",
+      "repo": "seventh-axis",
+      "date": "2026-10-08",
+      "text": "Started seventh-axis: a web app that translates plain English, Bahasa Malaysia or 中文 instructions into verified robot arm programs using Gemini and offline planning.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
       "key": "new:spillway",
       "kind": "new",
       "repo": "spillway",
       "date": "2026-09-28",
       "text": "Started spillway: a 2D fluid puzzle game in C++20 that uses a from‑scratch position‑based SPH simulation to let players draw walls and guide water into a goal.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "new:arc-length-of-xn",
-      "kind": "new",
-      "repo": "arc-length-of-xn",
-      "date": "2026-09-25",
-      "text": "Started arc-length-of-xn: a paper on how fast the arc length of y = xⁿ approaches 2, with LaTeX source and a verification script.",
       "by": null,
       "sourceHash": null
     }
