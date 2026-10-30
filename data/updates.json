@@ -32,9 +32,9 @@
       "kind": "activity",
       "repo": "afterburner",
       "date": "2026-10-17",
-      "text": "Implemented realistic Earth day map with Milky Way sky, enabled PBR rendering, added high‑detail Su‑57 glTF model, and introduced edge‑of‑space scene with atmosphere and stars.",
+      "text": "Implemented a realistic Earth with PBR lighting, added an edge‑of‑space scene featuring atmosphere and stars, and loaded a high‑detail Su‑57 glTF model.",
       "by": "model",
-      "sourceHash": "3a6bbaec5b42f1a8"
+      "sourceHash": "22d2fb89163586ac"
     },
     {
       "key": "new:wingman",
