@@ -32,9 +32,9 @@
       "kind": "activity",
       "repo": "afterburner",
       "date": "2026-10-17",
-      "text": "Implemented a realistic Earth with PBR lighting, added an edge‑of‑space scene featuring atmosphere and stars, and loaded a high‑detail Su‑57 glTF model.",
+      "text": "Added an edge‑of‑space scene with Earth, atmosphere, stars, and sun, a high‑detail Su‑57 glTF model, and a PBR pipeline using image‑based lighting.",
       "by": "model",
-      "sourceHash": "22d2fb89163586ac"
+      "sourceHash": "3dc685202d647bdb"
     },
     {
       "key": "new:wingman",
