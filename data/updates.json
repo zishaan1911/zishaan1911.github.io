@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:claude-parallel-agents",
+      "kind": "new",
+      "repo": "claude-parallel-agents",
+      "date": "2026-11-02",
+      "text": "Started claude-parallel-agents: a PowerShell skill that orchestrates Claude models, delegating file‑writing to cheaper Sonnet/Haiku agents in separate console windows while the orchestrator reviews and commits changes.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:claude-parallel-agents:2026-W45",
+      "kind": "activity",
+      "repo": "claude-parallel-agents",
+      "date": "2026-11-02",
+      "text": "Initial commit: parallel-sonnet Claude Code skill.",
+      "by": "commit",
+      "sourceHash": "cdd92a129277dbd5"
+    },
+    {
       "key": "new:ascend90",
       "kind": "new",
       "repo": "ascend90",
@@ -53,24 +71,6 @@
       "text": "Implemented auto‑open of dating app when a reply is due, added human‑like typing, and enabled vision‑optional Groq model.",
       "by": "model",
       "sourceHash": "3d5244f107bdb3a9"
-    },
-    {
-      "key": "new:spillway",
-      "kind": "new",
-      "repo": "spillway",
-      "date": "2026-09-28",
-      "text": "Started spillway: a 2D fluid puzzle game in C++20 that uses a from‑scratch position‑based SPH simulation to let players draw walls and guide water into a goal.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "new:arc-length-of-xn",
-      "kind": "new",
-      "repo": "arc-length-of-xn",
-      "date": "2026-09-25",
-      "text": "Started arc-length-of-xn: a paper on how fast the arc length of y = xⁿ approaches 2, with LaTeX source and a verification script.",
-      "by": null,
-      "sourceHash": null
     }
   ]
 }

@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "claude-parallel-agents",
+      "url": "https://github.com/zishaan1911/claude-parallel-agents",
+      "homepage": null,
+      "description": "Claude Code skill: offload implementation to cheaper Claude models (Sonnet/Haiku) in visible console windows while the orchestrator plans, reviews, tests, and commits.",
+      "summary": "A PowerShell skill that orchestrates Claude models, delegating file‑writing to cheaper Sonnet/Haiku agents in separate console windows while the orchestrator reviews and commits changes.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "PowerShell",
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-11-02T02:59:46Z",
+      "createdAt": "2026-11-02T02:59:39Z",
+      "contextHash": "feaaefc7bbaf3a6d",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "Helmsman",
       "url": "https://github.com/zishaan1911/Helmsman",
       "homepage": "https://zishaan1911.github.io/Helmsman/",
