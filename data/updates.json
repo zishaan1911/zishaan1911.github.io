@@ -1,22 +1,22 @@
 {
   "updates": [
     {
+      "key": "activity:claude-parallel-agents:2026-W45",
+      "kind": "activity",
+      "repo": "claude-parallel-agents",
+      "date": "2026-11-03",
+      "text": "Added skill project‑agnostic architecture, deterministic model config, and a Windows installer for the orchestrator.",
+      "by": "model",
+      "sourceHash": "506663530fa80b2b"
+    },
+    {
       "key": "new:claude-parallel-agents",
       "kind": "new",
       "repo": "claude-parallel-agents",
       "date": "2026-11-02",
-      "text": "Started claude-parallel-agents: a PowerShell skill that orchestrates Claude models, delegating file‑writing to cheaper Sonnet/Haiku agents in separate console windows while the orchestrator reviews and commits changes.",
+      "text": "Started claude-parallel-agents: a PowerShell orchestrator that decomposes tasks, launches cheap Claude or OpenCode agents in detached processes to write files, then reviews diffs and commits.",
       "by": null,
       "sourceHash": null
-    },
-    {
-      "key": "activity:claude-parallel-agents:2026-W45",
-      "kind": "activity",
-      "repo": "claude-parallel-agents",
-      "date": "2026-11-02",
-      "text": "Initial commit: parallel-sonnet Claude Code skill.",
-      "by": "commit",
-      "sourceHash": "cdd92a129277dbd5"
     },
     {
       "key": "new:ascend90",
