@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "near-hackathon-2026",
+      "url": "https://github.com/zishaan1911/near-hackathon-2026",
+      "homepage": null,
+      "description": null,
+      "summary": null,
+      "summarySource": "github",
+      "group": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-11-07T01:53:02Z",
+      "createdAt": "2026-11-07T01:53:00Z",
+      "contextHash": "8f543e4b0ba03c15",
+      "genStatus": "pending",
+      "genAttempts": 0
+    },
+    {
       "name": "claude-parallel-agents",
       "url": "https://github.com/zishaan1911/claude-parallel-agents",
       "homepage": null,

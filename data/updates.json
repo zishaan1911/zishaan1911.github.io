@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "key": "new:near-hackathon-2026",
+      "kind": "new",
+      "repo": "near-hackathon-2026",
+      "date": "2026-11-07",
+      "text": "Started near-hackathon-2026.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
       "key": "activity:claude-parallel-agents:2026-W45",
       "kind": "activity",
       "repo": "claude-parallel-agents",
@@ -62,15 +71,6 @@
       "text": "Started wingman: android app that reads Tinder/Bumble chats via Accessibility Service, drafts replies with Groq API, and auto‑sends them at psychologically timed moments.",
       "by": null,
       "sourceHash": null
-    },
-    {
-      "key": "activity:wingman:2026-W42",
-      "kind": "activity",
-      "repo": "wingman",
-      "date": "2026-10-13",
-      "text": "Implemented auto‑open of dating app when a reply is due, added human‑like typing, and enabled vision‑optional Groq model.",
-      "by": "model",
-      "sourceHash": "3d5244f107bdb3a9"
     }
   ]
 }
