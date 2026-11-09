@@ -158,7 +158,7 @@
       "summarySource": "groq",
       "group": "apps",
       "language": "C++",
-      "stars": 3,
+      "stars": 4,
       "topics": [
         "cpp",
         "fluid-simulation",
@@ -344,7 +344,7 @@
     {
       "name": "GASX",
       "url": "https://github.com/zishaan1911/GASX",
-      "homepage": null,
+      "homepage": "https://gasx-ecru.vercel.app",
       "description": "MUBA Blockchain Hackathon 2026 Finalist",
       "summary": "An Ethereum gas futures exchange on Sui, hedged with ETH options on Thetanuts.",
       "summarySource": "manual",
