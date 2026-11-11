@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "key": "new:AWS-hackathon-2026",
+      "kind": "new",
+      "repo": "AWS-hackathon-2026",
+      "date": "2026-11-11",
+      "text": "Started AWS-hackathon-2026.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
       "key": "new:near-hackathon-2026",
       "kind": "new",
       "repo": "near-hackathon-2026",
@@ -62,15 +71,6 @@
       "text": "Enabled a PBR pipeline with image‑based lighting, added a high‑detail Su‑57 glTF jet, and wired an edge‑of‑space scene featuring Earth, atmosphere, stars, and sun.",
       "by": "model",
       "sourceHash": "ccde58aff91dfc8e"
-    },
-    {
-      "key": "new:wingman",
-      "kind": "new",
-      "repo": "wingman",
-      "date": "2026-10-13",
-      "text": "Started wingman: android app that reads Tinder/Bumble chats via Accessibility Service, drafts replies with Groq API, and auto‑sends them at psychologically timed moments.",
-      "by": null,
-      "sourceHash": null
     }
   ]
 }

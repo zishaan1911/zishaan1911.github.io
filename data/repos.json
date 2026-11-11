@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "AWS-hackathon-2026",
+      "url": "https://github.com/zishaan1911/AWS-hackathon-2026",
+      "homepage": null,
+      "description": null,
+      "summary": null,
+      "summarySource": "github",
+      "group": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-11-11T07:37:51Z",
+      "createdAt": "2026-11-11T07:37:49Z",
+      "contextHash": "bebd3c66a6767dfa",
+      "genStatus": "pending",
+      "genAttempts": 0
+    },
+    {
       "name": "Helmsman",
       "url": "https://github.com/zishaan1911/Helmsman",
       "homepage": "https://zishaan1911.github.io/Helmsman/",
@@ -350,7 +368,7 @@
       "summarySource": "manual",
       "group": null,
       "language": "TypeScript",
-      "stars": 2,
+      "stars": 3,
       "topics": [
         "blockchain",
         "blockchain-platform",
