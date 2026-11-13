@@ -5,9 +5,9 @@
       "kind": "activity",
       "repo": "near-hackathon-2026",
       "date": "2026-11-13",
-      "text": "Implemented a dark themed UI with history charts, live compute news feed, and one‑tap demo trade on the Silica web app.",
+      "text": "A live compute price index with hourly futures on NEAR, publishing a matched‑quote index and auto‑settling contracts, now includes a news feed and dark theme.",
       "by": "model",
-      "sourceHash": "c7fa2a6ecf0ad64d"
+      "sourceHash": "c293dda8d200752b"
     },
     {
       "key": "new:AWS-hackathon-2026",
@@ -23,7 +23,7 @@
       "kind": "new",
       "repo": "near-hackathon-2026",
       "date": "2026-11-07",
-      "text": "Started near-hackathon-2026: a web app that tracks compute prices, publishes a Silica Compute Index to NEAR, and offers hourly futures on the index.",
+      "text": "Started near-hackathon-2026: a live compute price index with hourly futures on NEAR, publishing a matched‑quote index and auto‑settling contracts.",
       "by": null,
       "sourceHash": null
     },
