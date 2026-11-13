@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "key": "activity:near-hackathon-2026:2026-W46",
+      "kind": "activity",
+      "repo": "near-hackathon-2026",
+      "date": "2026-11-13",
+      "text": "Implemented a dark themed UI with history charts, live compute news feed, and one‑tap demo trade on the Silica web app.",
+      "by": "model",
+      "sourceHash": "c7fa2a6ecf0ad64d"
+    },
+    {
       "key": "new:AWS-hackathon-2026",
       "kind": "new",
       "repo": "AWS-hackathon-2026",
@@ -14,7 +23,7 @@
       "kind": "new",
       "repo": "near-hackathon-2026",
       "date": "2026-11-07",
-      "text": "Started near-hackathon-2026.",
+      "text": "Started near-hackathon-2026: a web app that tracks compute prices, publishes a Silica Compute Index to NEAR, and offers hourly futures on the index.",
       "by": null,
       "sourceHash": null
     },
@@ -62,15 +71,6 @@
       "text": "Started afterburner: a 3D fighter jet simulator using Panda3D, featuring a physically based rendering pipeline, a high‑detail Su‑57 model, and an edge‑of‑space world with realistic lighting and atmosphere.",
       "by": null,
       "sourceHash": null
-    },
-    {
-      "key": "activity:afterburner:2026-W42",
-      "kind": "activity",
-      "repo": "afterburner",
-      "date": "2026-10-17",
-      "text": "Enabled a PBR pipeline with image‑based lighting, added a high‑detail Su‑57 glTF jet, and wired an edge‑of‑space scene featuring Earth, atmosphere, stars, and sun.",
-      "by": "model",
-      "sourceHash": "ccde58aff91dfc8e"
     }
   ]
 }

@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "near-hackathon-2026",
+      "url": "https://github.com/zishaan1911/near-hackathon-2026",
+      "homepage": null,
+      "description": null,
+      "summary": "A web app that tracks compute prices, publishes a Silica Compute Index to NEAR, and offers hourly futures on the index.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-11-13T07:56:14Z",
+      "createdAt": "2026-11-07T01:53:00Z",
+      "contextHash": "58b6e81825967bcf",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "AWS-hackathon-2026",
       "url": "https://github.com/zishaan1911/AWS-hackathon-2026",
       "homepage": null,
@@ -39,24 +57,6 @@
       "createdAt": "2026-07-18T13:07:50Z",
       "contextHash": null,
       "genStatus": "ok",
-      "genAttempts": 0
-    },
-    {
-      "name": "near-hackathon-2026",
-      "url": "https://github.com/zishaan1911/near-hackathon-2026",
-      "homepage": null,
-      "description": null,
-      "summary": null,
-      "summarySource": "github",
-      "group": null,
-      "language": null,
-      "stars": 1,
-      "topics": [],
-      "archived": false,
-      "pushedAt": "2026-11-07T01:53:02Z",
-      "createdAt": "2026-11-07T01:53:00Z",
-      "contextHash": "8f543e4b0ba03c15",
-      "genStatus": "pending",
       "genAttempts": 0
     },
     {
