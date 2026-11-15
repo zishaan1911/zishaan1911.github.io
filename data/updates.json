@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:tiny-gpu",
+      "kind": "new",
+      "repo": "tiny-gpu",
+      "date": "2026-11-15",
+      "text": "Started tiny-gpu: a Verilog GPU for an iCE40UP5K FPGA that rasterises triangles into a 64×64 framebuffer and drives a 640×480 VGA display via USB.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:tiny-gpu:2026-W46",
+      "kind": "activity",
+      "repo": "tiny-gpu",
+      "date": "2026-11-15",
+      "text": "Implemented a GPU core with clear, triangle, and present functions, added a triangle rasteriser with a 64×64 framebuffer, and enabled 640×480 VGA output scaled 7×.",
+      "by": "model",
+      "sourceHash": "248d3636dfcb7f78"
+    },
+    {
       "key": "activity:near-hackathon-2026:2026-W46",
       "kind": "activity",
       "repo": "near-hackathon-2026",
@@ -51,24 +69,6 @@
       "repo": "ascend90",
       "date": "2026-10-18",
       "text": "Started ascend90: a static web app that tracks a 90‑day transformation plan across six pillars, using Groq AI to coach and roast the user, storing data in localStorage.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "activity:ascend90:2026-W42",
-      "kind": "activity",
-      "repo": "ascend90",
-      "date": "2026-10-18",
-      "text": "Added offline service worker, web app manifest, icons, and integrated Groq AI coach with prayer‑time fetch, game rules, and localStorage persistence.",
-      "by": "model",
-      "sourceHash": "0cbf69527c4cea61"
-    },
-    {
-      "key": "new:afterburner",
-      "kind": "new",
-      "repo": "afterburner",
-      "date": "2026-10-17",
-      "text": "Started afterburner: a 3D fighter jet simulator using Panda3D, featuring a physically based rendering pipeline, a high‑detail Su‑57 model, and an edge‑of‑space world with realistic lighting and atmosphere.",
       "by": null,
       "sourceHash": null
     }

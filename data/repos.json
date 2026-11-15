@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "tiny-gpu",
+      "url": "https://github.com/zishaan1911/tiny-gpu",
+      "homepage": null,
+      "description": "A tiny triangle-rasterising GPU in Verilog on an iCE40UP5K, with a generated 4-layer KiCad board",
+      "summary": "A Verilog GPU for an iCE40UP5K FPGA that rasterises triangles into a 64×64 framebuffer and drives a 640×480 VGA display via USB.",
+      "summarySource": "groq",
+      "group": "systems",
+      "language": "Python",
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-11-15T02:54:30Z",
+      "createdAt": "2026-11-15T02:46:00Z",
+      "contextHash": "6aa8aad4015fedaa",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "Helmsman",
       "url": "https://github.com/zishaan1911/Helmsman",
       "homepage": "https://zishaan1911.github.io/Helmsman/",
