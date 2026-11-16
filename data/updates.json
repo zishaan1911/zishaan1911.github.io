@@ -50,9 +50,9 @@
       "kind": "activity",
       "repo": "claude-parallel-agents",
       "date": "2026-11-03",
-      "text": "Added skill project‑agnostic architecture, deterministic model config, and a Windows installer for the orchestrator.",
+      "text": "Implemented a PowerShell orchestrator that decomposes tasks, launches detached Claude or OpenCode agents to write files, then reviews diffs and commits.",
       "by": "model",
-      "sourceHash": "506663530fa80b2b"
+      "sourceHash": "1876ae00859e9338"
     },
     {
       "key": "new:claude-parallel-agents",
