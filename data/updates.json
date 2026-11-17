@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "activity:near-hackathon-2026:2026-W47",
+      "kind": "activity",
+      "repo": "near-hackathon-2026",
+      "date": "2026-11-17",
+      "text": "Tick the market every 10 minutes from GitHub Actions.",
+      "by": "commit",
+      "sourceHash": "a19e089955461ba4"
+    },
+    {
+      "key": "activity:Noah-Ark:2026-W47",
+      "kind": "activity",
+      "repo": "Noah-Ark",
+      "date": "2026-11-17",
+      "text": "Added Ark-1 mechanical design, simulated its power chain, and sized its airframe and float hull from ark.json.",
+      "by": "model",
+      "sourceHash": "5a3bfb25e8050844"
+    },
+    {
       "key": "new:tiny-gpu",
       "kind": "new",
       "repo": "tiny-gpu",
@@ -28,11 +46,11 @@
       "sourceHash": "c293dda8d200752b"
     },
     {
-      "key": "new:AWS-hackathon-2026",
+      "key": "new:Noah-Ark",
       "kind": "new",
-      "repo": "AWS-hackathon-2026",
+      "repo": "Noah-Ark",
       "date": "2026-11-11",
-      "text": "Started AWS-hackathon-2026.",
+      "text": "Started Noah-Ark: an autonomous amphibious delivery drone with edge perception and AWS Bedrock AI for triage, planning, and dispatch.",
       "by": null,
       "sourceHash": null
     },
@@ -53,24 +71,6 @@
       "text": "Implemented a PowerShell orchestrator that decomposes tasks, launches detached Claude or OpenCode agents to write files, then reviews diffs and commits.",
       "by": "model",
       "sourceHash": "1876ae00859e9338"
-    },
-    {
-      "key": "new:claude-parallel-agents",
-      "kind": "new",
-      "repo": "claude-parallel-agents",
-      "date": "2026-11-02",
-      "text": "Started claude-parallel-agents: a PowerShell orchestrator that decomposes tasks, launches cheap Claude or OpenCode agents in detached processes to write files, then reviews diffs and commits.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "new:ascend90",
-      "kind": "new",
-      "repo": "ascend90",
-      "date": "2026-10-18",
-      "text": "Started ascend90: a static web app that tracks a 90‑day transformation plan across six pillars, using Groq AI to coach and roast the user, storing data in localStorage.",
-      "by": null,
-      "sourceHash": null
     }
   ]
 }
