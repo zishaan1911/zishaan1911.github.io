@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "key": "activity:Noah-Ark:2026-W47",
+      "kind": "activity",
+      "repo": "Noah-Ark",
+      "date": "2026-11-18",
+      "text": "Generated shared TypeScript, Pydantic, and Dart types; added REST API and async channel contracts; integrated Ark‑1 hardware with real mass, drag, and power chain simulation.",
+      "by": "model",
+      "sourceHash": "5a4761887ca58d9c"
+    },
+    {
       "key": "activity:near-hackathon-2026:2026-W47",
       "kind": "activity",
       "repo": "near-hackathon-2026",
@@ -8,15 +17,6 @@
       "text": "Tick the market every 10 minutes from GitHub Actions.",
       "by": "commit",
       "sourceHash": "a19e089955461ba4"
-    },
-    {
-      "key": "activity:Noah-Ark:2026-W47",
-      "kind": "activity",
-      "repo": "Noah-Ark",
-      "date": "2026-11-17",
-      "text": "Added Ark-1 mechanical design, simulated its power chain, and sized its airframe and float hull from ark.json.",
-      "by": "model",
-      "sourceHash": "5a3bfb25e8050844"
     },
     {
       "key": "new:tiny-gpu",
