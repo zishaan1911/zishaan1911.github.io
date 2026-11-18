@@ -5,9 +5,9 @@
       "kind": "activity",
       "repo": "Noah-Ark",
       "date": "2026-11-18",
-      "text": "Generated shared TypeScript, Pydantic, and Dart types; added REST API and async channel contracts; integrated Ark‑1 hardware with real mass, drag, and power chain simulation.",
+      "text": "Implemented a lighter operator dashboard with manual fly, live simulation, and telemetry, added REST API contracts, and integrated Ark‑1 hardware with real mass and drag.",
       "by": "model",
-      "sourceHash": "5a4761887ca58d9c"
+      "sourceHash": "7a3c5b5378ce4a98"
     },
     {
       "key": "activity:near-hackathon-2026:2026-W47",
