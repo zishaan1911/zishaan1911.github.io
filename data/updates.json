@@ -5,9 +5,9 @@
       "kind": "activity",
       "repo": "Noah-Ark",
       "date": "2026-11-18",
-      "text": "Implemented a lighter operator dashboard with manual fly, live simulation, and telemetry, added REST API contracts, and integrated Ark‑1 hardware with real mass and drag.",
+      "text": "Implemented an operator dashboard with weather panels, storm detour logic, manual stick control, and a live telemetry sheet for Ark‑1.",
       "by": "model",
-      "sourceHash": "7a3c5b5378ce4a98"
+      "sourceHash": "9d0b664e62b5e1ef"
     },
     {
       "key": "activity:near-hackathon-2026:2026-W47",
