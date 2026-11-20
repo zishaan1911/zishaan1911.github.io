@@ -1,13 +1,22 @@
 {
   "updates": [
     {
+      "key": "activity:daily-post-bot:2026-W47",
+      "kind": "activity",
+      "repo": "daily-post-bot",
+      "date": "2026-11-20",
+      "text": "Added daily posting schedule at 9 am Malaysia time, three content options (work, news, meme), and private‑repo support with meme captions as punchlines.",
+      "by": "model",
+      "sourceHash": "7c26d9f800c85a3f"
+    },
+    {
       "key": "activity:Noah-Ark:2026-W47",
       "kind": "activity",
       "repo": "Noah-Ark",
-      "date": "2026-11-18",
-      "text": "Implemented an operator dashboard with weather panels, storm detour logic, manual stick control, and a live telemetry sheet for Ark‑1.",
+      "date": "2026-11-20",
+      "text": "Implemented health monitoring, predictive maintenance models, and an operator dashboard with weather, storm detour, and fleet map features.",
       "by": "model",
-      "sourceHash": "9d0b664e62b5e1ef"
+      "sourceHash": "a95cc4508f5ddbc7"
     },
     {
       "key": "activity:near-hackathon-2026:2026-W47",
@@ -17,6 +26,33 @@
       "text": "Tick the market every 10 minutes from GitHub Actions.",
       "by": "commit",
       "sourceHash": "a19e089955461ba4"
+    },
+    {
+      "key": "activity:slipstream:2026-W47",
+      "kind": "activity",
+      "repo": "slipstream",
+      "date": "2026-11-16",
+      "text": "Added a knife‑edge flight script with rotor‑aware roll controller, disturbances for robustness, and a Blender animation rendering the Gannet.",
+      "by": "model",
+      "sourceHash": "8d5b845188eb96fb"
+    },
+    {
+      "key": "new:daily-post-bot",
+      "kind": "new",
+      "repo": "daily-post-bot",
+      "date": "2026-11-15",
+      "text": "Started daily-post-bot: a Python bot that reads GitHub activity, fetches Hacker News stories, and uses a Groq model to generate LinkedIn and X posts in a user‑defined voice, then posts via GitHub Actions or manual triggers.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "new:slipstream",
+      "kind": "new",
+      "repo": "slipstream",
+      "date": "2026-11-15",
+      "text": "Started slipstream: browser-based flight simulator for a morphing quadrotor, integrating physics, autopilot, SPICE power models, and rendering tools.",
+      "by": null,
+      "sourceHash": null
     },
     {
       "key": "new:tiny-gpu",
@@ -35,42 +71,6 @@
       "text": "Implemented a GPU core with clear, triangle, and present functions, added a triangle rasteriser with a 64×64 framebuffer, and enabled 640×480 VGA output scaled 7×.",
       "by": "model",
       "sourceHash": "248d3636dfcb7f78"
-    },
-    {
-      "key": "activity:near-hackathon-2026:2026-W46",
-      "kind": "activity",
-      "repo": "near-hackathon-2026",
-      "date": "2026-11-13",
-      "text": "A live compute price index with hourly futures on NEAR, publishing a matched‑quote index and auto‑settling contracts, now includes a news feed and dark theme.",
-      "by": "model",
-      "sourceHash": "c293dda8d200752b"
-    },
-    {
-      "key": "new:Noah-Ark",
-      "kind": "new",
-      "repo": "Noah-Ark",
-      "date": "2026-11-11",
-      "text": "Started Noah-Ark: an autonomous amphibious delivery drone with edge perception and AWS Bedrock AI for triage, planning, and dispatch.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "new:near-hackathon-2026",
-      "kind": "new",
-      "repo": "near-hackathon-2026",
-      "date": "2026-11-07",
-      "text": "Started near-hackathon-2026: a live compute price index with hourly futures on NEAR, publishing a matched‑quote index and auto‑settling contracts.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "activity:claude-parallel-agents:2026-W45",
-      "kind": "activity",
-      "repo": "claude-parallel-agents",
-      "date": "2026-11-03",
-      "text": "Implemented a PowerShell orchestrator that decomposes tasks, launches detached Claude or OpenCode agents to write files, then reviews diffs and commits.",
-      "by": "model",
-      "sourceHash": "1876ae00859e9338"
     }
   ]
 }
