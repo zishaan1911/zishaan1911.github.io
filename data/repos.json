@@ -2,6 +2,28 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "Helmsman",
+      "url": "https://github.com/zishaan1911/Helmsman",
+      "homepage": "https://zishaan1911.github.io/Helmsman/",
+      "description": "AI-powered GitOps Deployment Platform",
+      "summary": "GitOps deployment with an AI risk gate and self-healing rollback.",
+      "summarySource": "manual",
+      "group": null,
+      "language": "Go",
+      "stars": 2,
+      "topics": [
+        "ai",
+        "ci-cd",
+        "gitops"
+      ],
+      "archived": false,
+      "pushedAt": "2026-11-21T09:33:19Z",
+      "createdAt": "2026-07-18T13:07:50Z",
+      "contextHash": null,
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "daily-post-bot",
       "url": "https://github.com/zishaan1911/daily-post-bot",
       "homepage": null,
@@ -107,28 +129,6 @@
       "pushedAt": "2026-11-15T02:54:30Z",
       "createdAt": "2026-11-15T02:46:00Z",
       "contextHash": "6aa8aad4015fedaa",
-      "genStatus": "ok",
-      "genAttempts": 0
-    },
-    {
-      "name": "Helmsman",
-      "url": "https://github.com/zishaan1911/Helmsman",
-      "homepage": "https://zishaan1911.github.io/Helmsman/",
-      "description": "AI-powered GitOps Deployment Platform",
-      "summary": "GitOps deployment with an AI risk gate and self-healing rollback.",
-      "summarySource": "manual",
-      "group": null,
-      "language": "Go",
-      "stars": 2,
-      "topics": [
-        "ai",
-        "ci-cd",
-        "gitops"
-      ],
-      "archived": false,
-      "pushedAt": "2026-11-14T09:33:20Z",
-      "createdAt": "2026-07-18T13:07:50Z",
-      "contextHash": null,
       "genStatus": "ok",
       "genAttempts": 0
     },
