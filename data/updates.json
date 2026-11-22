@@ -10,6 +10,15 @@
       "sourceHash": null
     },
     {
+      "key": "activity:daily-post-bot:2026-W47",
+      "kind": "activity",
+      "repo": "daily-post-bot",
+      "date": "2026-11-22",
+      "text": "Added three daily post options—work, news, meme—support for private repos, and scheduled daily posts at 9 am Malaysia time with a backup at 10:15 MYT.",
+      "by": "model",
+      "sourceHash": "544e2b8eeb1c753b"
+    },
+    {
       "key": "activity:shafranov:2026-W47",
       "kind": "activity",
       "repo": "shafranov",
@@ -17,15 +26,6 @@
       "text": "Added a fast fixed‑boundary Grad‑Shafranov solver, TCV vacuum vessel with 256 filaments, and poloidal field coils to the real‑time C++20 simulator.",
       "by": "model",
       "sourceHash": "e43b349959bd2e6f"
-    },
-    {
-      "key": "activity:daily-post-bot:2026-W47",
-      "kind": "activity",
-      "repo": "daily-post-bot",
-      "date": "2026-11-21",
-      "text": "Implemented three daily post options—work, news, meme—with private‑repo support, scheduled at 9 am Malaysia time and a 10:15 MYT backup, and meme captions now punchlines.",
-      "by": "model",
-      "sourceHash": "046bd66aa5925d06"
     },
     {
       "key": "activity:Noah-Ark:2026-W47",
