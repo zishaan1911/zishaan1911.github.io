@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "key": "new:shafranov",
+      "kind": "new",
+      "repo": "shafranov",
+      "date": "2026-11-22",
+      "text": "Started shafranov: a real-time C++20 simulator solving the Grad–Shafranov equation for TCV’s free‑boundary tokamak plasma, evolving coil, vessel and plasma currents.",
+      "by": null,
+      "sourceHash": null
+    },
+    {
+      "key": "activity:shafranov:2026-W47",
+      "kind": "activity",
+      "repo": "shafranov",
+      "date": "2026-11-22",
+      "text": "Added a fast fixed‑boundary Grad‑Shafranov solver, TCV vacuum vessel with 256 filaments, and poloidal field coils to the real‑time C++20 simulator.",
+      "by": "model",
+      "sourceHash": "e43b349959bd2e6f"
+    },
+    {
       "key": "activity:daily-post-bot:2026-W47",
       "kind": "activity",
       "repo": "daily-post-bot",
@@ -53,24 +71,6 @@
       "text": "Started slipstream: browser-based flight simulator for a morphing quadrotor, integrating physics, autopilot, SPICE power models, and rendering tools.",
       "by": null,
       "sourceHash": null
-    },
-    {
-      "key": "new:tiny-gpu",
-      "kind": "new",
-      "repo": "tiny-gpu",
-      "date": "2026-11-15",
-      "text": "Started tiny-gpu: a Verilog GPU for an iCE40UP5K FPGA that rasterises triangles into a 64×64 framebuffer and drives a 640×480 VGA display via USB.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "activity:tiny-gpu:2026-W46",
-      "kind": "activity",
-      "repo": "tiny-gpu",
-      "date": "2026-11-15",
-      "text": "Implemented a GPU core with clear, triangle, and present functions, added a triangle rasteriser with a 64×64 framebuffer, and enabled 640×480 VGA output scaled 7×.",
-      "by": "model",
-      "sourceHash": "248d3636dfcb7f78"
     }
   ]
 }
