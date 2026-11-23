@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "key": "activity:daily-post-bot:2026-W48",
+      "kind": "activity",
+      "repo": "daily-post-bot",
+      "date": "2026-11-23",
+      "text": "Daily post 2026-11-23.",
+      "by": "commit",
+      "sourceHash": "2995f9d62661ccf1"
+    },
+    {
       "key": "new:shafranov",
       "kind": "new",
       "repo": "shafranov",
@@ -60,15 +69,6 @@
       "repo": "daily-post-bot",
       "date": "2026-11-15",
       "text": "Started daily-post-bot: a Python bot that reads GitHub activity, fetches Hacker News stories, and uses a Groq model to generate LinkedIn and X posts in a user‑defined voice, then posts via GitHub Actions or manual triggers.",
-      "by": null,
-      "sourceHash": null
-    },
-    {
-      "key": "new:slipstream",
-      "kind": "new",
-      "repo": "slipstream",
-      "date": "2026-11-15",
-      "text": "Started slipstream: browser-based flight simulator for a morphing quadrotor, integrating physics, autopilot, SPICE power models, and rendering tools.",
       "by": null,
       "sourceHash": null
     }
