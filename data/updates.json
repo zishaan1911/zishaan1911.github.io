@@ -10,11 +10,20 @@
       "sourceHash": "2995f9d62661ccf1"
     },
     {
+      "key": "activity:shafranov:2026-W48",
+      "kind": "activity",
+      "repo": "shafranov",
+      "date": "2026-11-23",
+      "text": "Implemented a free‑boundary equilibrium Picard solver, added FreeGS reference equilibrium for TCV, and introduced inverse shape solve for coil currents.",
+      "by": "model",
+      "sourceHash": "7b6fe4938ed88a3a"
+    },
+    {
       "key": "new:shafranov",
       "kind": "new",
       "repo": "shafranov",
       "date": "2026-11-22",
-      "text": "Started shafranov: a real-time C++20 simulator solving the Grad–Shafranov equation for TCV’s free‑boundary tokamak plasma, evolving coil, vessel and plasma currents.",
+      "text": "Started shafranov: a real‑time C++20 simulator solving the Grad–Shafranov equation for TCV, evolving coil, vessel and plasma currents to capture vertical instability.",
       "by": null,
       "sourceHash": null
     },
@@ -62,15 +71,6 @@
       "text": "Added a knife‑edge flight script with rotor‑aware roll controller, disturbances for robustness, and a Blender animation rendering the Gannet.",
       "by": "model",
       "sourceHash": "8d5b845188eb96fb"
-    },
-    {
-      "key": "new:daily-post-bot",
-      "kind": "new",
-      "repo": "daily-post-bot",
-      "date": "2026-11-15",
-      "text": "Started daily-post-bot: a Python bot that reads GitHub activity, fetches Hacker News stories, and uses a Groq model to generate LinkedIn and X posts in a user‑defined voice, then posts via GitHub Actions or manual triggers.",
-      "by": null,
-      "sourceHash": null
     }
   ]
 }
