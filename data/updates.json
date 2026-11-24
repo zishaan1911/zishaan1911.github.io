@@ -10,6 +10,15 @@
       "sourceHash": "8ee2c0ec0a46a55c"
     },
     {
+      "key": "activity:Noah-Ark:2026-W48",
+      "kind": "activity",
+      "repo": "Noah-Ark",
+      "date": "2026-11-24",
+      "text": "A native Android Ark SOS app, an operator dashboard that displays and dispatches PartyRock SOS calls, and a fleet queue for SOS orders now exist.",
+      "by": "model",
+      "sourceHash": "065e324da548fc5b"
+    },
+    {
       "key": "activity:shafranov:2026-W48",
       "kind": "activity",
       "repo": "shafranov",
@@ -62,15 +71,6 @@
       "text": "Tick the market every 10 minutes from GitHub Actions.",
       "by": "commit",
       "sourceHash": "a19e089955461ba4"
-    },
-    {
-      "key": "activity:slipstream:2026-W47",
-      "kind": "activity",
-      "repo": "slipstream",
-      "date": "2026-11-16",
-      "text": "Added a knife‑edge flight script with rotor‑aware roll controller, disturbances for robustness, and a Blender animation rendering the Gannet.",
-      "by": "model",
-      "sourceHash": "8d5b845188eb96fb"
     }
   ]
 }
