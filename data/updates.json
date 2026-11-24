@@ -4,10 +4,10 @@
       "key": "activity:daily-post-bot:2026-W48",
       "kind": "activity",
       "repo": "daily-post-bot",
-      "date": "2026-11-23",
-      "text": "Daily post 2026-11-23.",
-      "by": "commit",
-      "sourceHash": "2995f9d62661ccf1"
+      "date": "2026-11-24",
+      "text": "Generated daily LinkedIn and X posts from GitHub activity and Hacker News stories using the Groq model.",
+      "by": "model",
+      "sourceHash": "8ee2c0ec0a46a55c"
     },
     {
       "key": "activity:shafranov:2026-W48",
