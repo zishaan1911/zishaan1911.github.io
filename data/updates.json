@@ -13,10 +13,10 @@
       "key": "activity:Noah-Ark:2026-W48",
       "kind": "activity",
       "repo": "Noah-Ark",
-      "date": "2026-11-24",
-      "text": "A native Android Ark SOS app, an operator dashboard that displays and dispatches PartyRock SOS calls, and a fleet queue for SOS orders now exist.",
+      "date": "2026-11-25",
+      "text": "Implemented a flagship dispatch app that integrated PartyRock SOS calls, automated mission loading, and linked SOS orders to the fleet dashboard.",
       "by": "model",
-      "sourceHash": "065e324da548fc5b"
+      "sourceHash": "abd9f22b5539a110"
     },
     {
       "key": "activity:shafranov:2026-W48",
