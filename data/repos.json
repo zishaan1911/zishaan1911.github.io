@@ -2,6 +2,24 @@
   "user": "zishaan1911",
   "repos": [
     {
+      "name": "daily-post-bot",
+      "url": "https://github.com/zishaan1911/daily-post-bot",
+      "homepage": null,
+      "description": "daily linkedin + x posts from my github activity, written by groq",
+      "summary": "A Python bot that reads GitHub activity, fetches Hacker News stories, and uses a Groq model to generate LinkedIn and X posts in a user‑defined voice, then posts via GitHub Actions or manual triggers.",
+      "summarySource": "groq",
+      "group": "apps",
+      "language": "Python",
+      "stars": 1,
+      "topics": [],
+      "archived": false,
+      "pushedAt": "2026-11-27T09:07:05Z",
+      "createdAt": "2026-11-15T04:32:12Z",
+      "contextHash": "0da0c78647ce3a39",
+      "genStatus": "ok",
+      "genAttempts": 0
+    },
+    {
       "name": "Noah-Ark",
       "url": "https://github.com/zishaan1911/Noah-Ark",
       "homepage": "https://zishaan1911.github.io/Noah-Ark/",
@@ -20,24 +38,6 @@
       "genAttempts": 0
     },
     {
-      "name": "daily-post-bot",
-      "url": "https://github.com/zishaan1911/daily-post-bot",
-      "homepage": null,
-      "description": "daily linkedin + x posts from my github activity, written by groq",
-      "summary": "A Python bot that reads GitHub activity, fetches Hacker News stories, and uses a Groq model to generate LinkedIn and X posts in a user‑defined voice, then posts via GitHub Actions or manual triggers.",
-      "summarySource": "groq",
-      "group": "apps",
-      "language": "Python",
-      "stars": 1,
-      "topics": [],
-      "archived": false,
-      "pushedAt": "2026-11-26T08:55:01Z",
-      "createdAt": "2026-11-15T04:32:12Z",
-      "contextHash": "0da0c78647ce3a39",
-      "genStatus": "ok",
-      "genAttempts": 0
-    },
-    {
       "name": "shafranov",
       "url": "https://github.com/zishaan1911/shafranov",
       "homepage": null,
@@ -46,7 +46,7 @@
       "summarySource": "groq",
       "group": "systems",
       "language": "C++",
-      "stars": 0,
+      "stars": 1,
       "topics": [],
       "archived": false,
       "pushedAt": "2026-11-23T13:17:02Z",
