@@ -4,10 +4,10 @@
       "key": "activity:daily-post-bot:2026-W48",
       "kind": "activity",
       "repo": "daily-post-bot",
-      "date": "2026-11-27",
-      "text": "Implemented daily posting of GitHub activity and Hacker News stories to LinkedIn and X via Groq model.",
+      "date": "2026-11-28",
+      "text": "Added daily posting capability, enabling the bot to generate and publish LinkedIn and X posts automatically each day.",
       "by": "model",
-      "sourceHash": "ebb48bbd349e235f"
+      "sourceHash": "60ee261b106f5d01"
     },
     {
       "key": "activity:Noah-Ark:2026-W48",
